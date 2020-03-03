@@ -1,5 +1,6 @@
 <?php namespace Inetis\KdriveAdapter;
 
+use Infomaniak\KDrive\KDriveServiceProvider;
 use System\Classes\PluginBase;
 
 /**
@@ -30,6 +31,6 @@ class Plugin extends PluginBase
      */
     public function boot()
     {
-        App::register(KDriveServiceProvider::class);
+        \App::register(KDriveServiceProvider::class);
     }
 }
