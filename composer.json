@@ -1,0 +1,5 @@
+{
+    "require": {
+        "infomaniak/laravel-kdrive": "^1.0"
+    }
+}
