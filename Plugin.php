@@ -4,7 +4,7 @@ use Infomaniak\KDrive\KDriveServiceProvider;
 use System\Classes\PluginBase;
 
 /**
- * KdriveAdapatater Plugin Information File
+ * KdriveAdapter Plugin Information File
  */
 class Plugin extends PluginBase
 {
@@ -16,7 +16,7 @@ class Plugin extends PluginBase
     public function pluginDetails()
     {
         return [
-            'name'        => 'KdriveAdapatater',
+            'name'        => 'KdriveAdapter',
             'description' => 'Infomaniak kDrive filesystem adapter plugin for OctoberCMS.',
             'author'      => 'Inetis',
             'icon'        => 'icon-leaf'
