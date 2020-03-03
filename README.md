@@ -16,7 +16,7 @@ Add new filesystem disk in `disks` array in `config/filesystems.php`:
     ]
 ```
 
-The `KDRIVE_PREFIX` is optional an you may remove it from you `.env` file is you do not use it. This settings allows you to define another folder as your root.
+The `KDRIVE_PREFIX` is optional. This settings allows you to define another folder as your root.
 
 ## Credentials
 To be able to connect to your kDrive, you'll need the following information.
