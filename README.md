@@ -27,7 +27,7 @@ To be able to connect to your kDrive, you'll need the following information.
 
 ## Support
 
-Please use [GitHub Issues Page](https://github.com/mplodowski/dropboxadapter-plugin/issues) to report any issues with plugin.
+Please use [GitHub Issues Page](https://github.com/inetis-ch/oc-kdriveadapter-plugin/issues) to report any issues with plugin.
 
 
 ## Author
