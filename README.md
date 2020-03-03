@@ -1,4 +1,4 @@
-# Dropbox Adapter Plugin
+# kDrive Adapter Plugin
 
 Infomaniak [kDrive](https://github.com/Infomaniak/laravel-kdrive) filesystem adapter plugin for OctoberCMS.
 
